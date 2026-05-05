@@ -92,11 +92,11 @@ ms-ms-dda-analysis/
 
 **|Type	**               |     ** Description**                    **|**
   |----------------------|-------------------------------------------|
-  |PCA	                 | Sample clustering and batch assessment    |
+  |PCA	                  | Sample clustering and batch assessment    |
   |Heatmaps	             | Protein expression patterns               |
-  |Volcano plots	       | Differential protein significance         |
-  |CSV results	         | Statistical test outputs                  |
-  |Correlation plots	   | Sample similarity                         |
+  |Volcano plots	        | Differential protein significance         |
+  |CSV results	          | Statistical test outputs                  |
+  |Correlation plots	    | Sample similarity                         |
 
 
 ### Note
