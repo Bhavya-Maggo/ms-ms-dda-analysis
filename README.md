@@ -90,17 +90,9 @@ ms-ms-dda-analysis/
 
 ## Output Summary
 
-**|Type	**               |     ** Description**                    **|**
-  |----------------------|-------------------------------------------|
-  |PCA	                  | Sample clustering and batch assessment    |
-  |Heatmaps	             | Protein expression patterns               |
-  |Volcano plots	        | Differential protein significance         |
-  |CSV results	          | Statistical test outputs                  |
-  |Correlation plots	    | Sample similarity                         |
-
 | Type              | Description                         |
 | ----------------- | ----------------------------------- |
-| PCA               | Sample clustering and QC            |
+| PCA               | Sample clustering            |
 | Heatmaps          | Protein expression patterns         |
 | Volcano plots     | Differential abundance significance |
 | CSV results       | Statistical outputs (limma)         |
