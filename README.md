@@ -98,6 +98,15 @@ ms-ms-dda-analysis/
   |CSV results	          | Statistical test outputs                  |
   |Correlation plots	    | Sample similarity                         |
 
+| Type              | Description                         |
+| ----------------- | ----------------------------------- |
+| PCA               | Sample clustering and QC            |
+| Heatmaps          | Protein expression patterns         |
+| Volcano plots     | Differential abundance significance |
+| CSV results       | Statistical outputs (limma)         |
+| Correlation plots | Sample similarity assessment        |
+
+
 
 ### Note
 
