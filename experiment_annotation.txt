@@ -1,0 +1,19 @@
+label	condition	replicate
+LFQ intensity Control1	Control	1
+LFQ intensity Control2	Control	2
+LFQ intensity Control3	Control	3
+LFQ intensity HS276_1	 HS276	1
+LFQ intensity HS276_2	 HS276	2
+LFQ intensity HS276_3	 HS276	3
+LFQ intensity HS276_LLOMe30m1	 HS276_LLOMe30m	1
+LFQ intensity HS276_LLOMe30m2	 HS276_LLOMe30m	2
+LFQ intensity HS276_LLOMe30m3	 HS276_LLOMe30m	3
+LFQ intensity HS276_LLOMe5m1	 HS276_LLOMe5m	1
+LFQ intensity HS276_LLOMe5m2	 HS276_LLOMe5m	2
+LFQ intensity HS276_LLOMe5m3	 HS276_LLOMe5m	3
+LFQ intensity LLOMe30m1	LLOMe30m	1
+LFQ intensity LLOMe30m2	LLOMe30m	2
+LFQ intensity LLOMe30m3	LLOMe30m	3
+LFQ intensity LLOMe5m1	 LLOMe5m	1
+LFQ intensity LLOMe5m2	 LLOMe5m	2
+LFQ intensity LLOMe5m3	 LLOMe5m	3
