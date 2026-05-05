@@ -62,6 +62,7 @@ ms-ms-dda-analysis/
 * Normalization
 * Missing value imputation
 * Differential enrichment analysis
+
 **Outputs:**
 * PCA plot
 * Correlation matrix
@@ -72,6 +73,7 @@ ms-ms-dda-analysis/
 **3. limma Analysis (limma.R)**
 * Linear modeling for differential expression
 * Multiple condition comparisons
+
 **Outputs:**
 * CSV result tables (log2FC, p-value, adjusted p-value)
 * Volcano plots
