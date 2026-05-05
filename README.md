@@ -16,9 +16,9 @@ ms-ms-dda-analysis/
 ├── experiment_annotation.txt     # Sample metadata
 │
 ├── results_dep/
-|   ├── pca.png                     
+│   ├── pca.png                     
 │   ├── centered_heatmap.png
-|   ├── contrast_heatmap.png
+│   ├── contrast_heatmap.png
 │   ├── correlation.png
 │   ├── overlap.png
 │   ├── volcano_*.pdf  
